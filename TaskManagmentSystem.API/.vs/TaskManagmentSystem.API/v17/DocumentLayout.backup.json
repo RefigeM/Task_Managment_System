@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\migrations\\20250109160733_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\migrations\\20250109160733_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB05452F-6D97-42C6-9629-D93355B8F5BB}|TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.bl\\taskmanagmentsystem.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB05452F-6D97-42C6-9629-D93355B8F5BB}|TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj|solutionrelative:taskmanagmentsystem.bl\\taskmanagmentsystem.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\repositories\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\repositories\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555A1635-B408-4B54-A206-81A6208F5B61}|TaskManagmentSystem.API\\TaskManagmentSystem.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555A1635-B408-4B54-A206-81A6208F5B61}|TaskManagmentSystem.API\\TaskManagmentSystem.API.csproj|solutionrelative:taskmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555A1635-B408-4B54-A206-81A6208F5B61}|TaskManagmentSystem.API\\TaskManagmentSystem.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{555A1635-B408-4B54-A206-81A6208F5B61}|TaskManagmentSystem.API\\TaskManagmentSystem.API.csproj|solutionrelative:taskmanagmentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\context\\managmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\context\\managmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\configurations\\topicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\configurations\\topicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.dal\\configurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FAE92-51B6-4E01-97EE-23E028F19AF1}|TaskManagmentSystem.DAL\\TaskManagmentSystem.DAL.csproj|solutionrelative:taskmanagmentsystem.dal\\configurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\taskmanagmentsystem.api\\taskmanagmentsystem.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AE55B1-E49F-4166-8B05-45010FD0D28D}|TaskManagmentSystem.Core\\TaskManagmentSystem.Core.csproj|solutionrelative:taskmanagmentsystem.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagmentSystem.BL",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj",
+              "RelativeToolTip": "TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T16:25:58.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:18:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TopicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\TopicRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Repositories\\TopicRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\TopicRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Repositories\\TopicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:16:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:15:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:14:54.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Repositories\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\IAssignmentRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Repositories\\IAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:13:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:11:46.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250109160733_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Migrations\\20250109160733_Init.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Migrations\\20250109160733_Init.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Migrations\\20250109160733_Init.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Migrations\\20250109160733_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:07:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.API\\Program.cs",
+              "RelativeToolTip": "TaskManagmentSystem.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:57:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.API\\appsettings.json",
+              "RelativeToolTip": "TaskManagmentSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T15:57:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopicConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\TopicConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Configurations\\TopicConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\TopicConfiguration.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Configurations\\TopicConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:55:14.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Configurations\\TagConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:53:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:52:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Context\\ManagmentDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Context\\ManagmentDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Context\\ManagmentDbContext.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Context\\ManagmentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "RelativeToolTip": "TaskManagmentSystem.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:49:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Entities\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Assignment.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Entities\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:31:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Tag.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:30:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Topic.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:29:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:27:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\TaskManagmentSystem.API\\TaskManagmentSystem.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "TaskManagmentSystem.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:26:41.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

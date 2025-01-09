@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\bin\Debug\net8.0\TaskManagmentSystem.Core.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\bin\Debug\net8.0\TaskManagmentSystem.Core.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\bin\Debug\net8.0\TaskManagmentSystem.Core.dll
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\bin\Debug\net8.0\TaskManagmentSystem.Core.pdb
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.dll
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\refint\TaskManagmentSystem.Core.dll
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.pdb
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\TaskManagmentSystem.Core.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\TaskManagmentSystem.API\TaskManagmentSystem.Core\obj\Debug\net8.0\ref\TaskManagmentSystem.Core.dll
